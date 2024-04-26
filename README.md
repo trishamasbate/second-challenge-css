@@ -21,6 +21,8 @@ It is structured to meet the following criteria:
 
 ## ✏️ Installation and Usage
 
+The navigation bars and buttons are responsive. These will direct you to sections of the page, featured projects, and other web applications as intended.
+
 To run the Work Portfolio, you can start with either of these steps:
 
 * Clone the repository:
@@ -28,12 +30,9 @@ To run the Work Portfolio, you can start with either of these steps:
 git clone git@github.com:trishamasbate/second-challenge-css.git
 ```
 
-* Click on the link:
-```
-
-```
-
-The navigation bars and buttons are responsive. These will direct you to sections of the page, featured projects, and other web applications as intended.
+* Use the link:
+  
+  [Trisha Masbate Web Portfolio](https://trishamasbate.github.io/second-challenge-css/)
 
 Below is a preview of the web portfolio:
 
